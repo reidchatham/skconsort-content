@@ -33,6 +33,14 @@ post_date: 2020-08-12 18:45:05
 <p class="has-text-color has-black-color">Development Feasibility, Comprehensive Plan &amp; Zoning matters, Development Master Planning, Site Planning, Civil Engineering, Permitting &amp; Construction Administration</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-text-color has-black-color"><strong>CLIENTS: </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-text-color has-black-color"><strong>CORPORATE:</strong></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:advgb/list {"id":"advgblist-79ac1af9-bb82-41dd-8aee-395a6e81a78f","icon":"minus","iconSize":10,"changed":true} -->
@@ -46,18 +54,6 @@ post_date: 2020-08-12 18:45:05
 <!-- /wp:advgb/list --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
-
-<!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-text-color has-black-color"><strong>CLIENTS: </strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:advgb/list {"id":"advgblist-3f5849ab-7888-455b-8ed0-1cd513a26bd6","icon":"minus","iconSize":10,"changed":true} -->
-<div class="wp-block-advgb-list"><ul class="advgblist-3f5849ab-7888-455b-8ed0-1cd513a26bd6 advgb-list advgb-list-minus"><li></li></ul></div>
-<!-- /wp:advgb/list -->
-
-<!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-text-color has-black-color"><strong>CORPORATE:</strong></p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
 <p class="has-text-color has-black-color"><strong>GOVERNMENTAL</strong>: City of Orlando Community &amp; Youth Services, City of Casselberry Parks &amp; Recreation, City of Casselberry Planning &amp; Development, Town of Eatonville, Florida, City of Valdosta, Georgia, Orange County Parks &amp; Recreation, Orange County Capital Projects, Orange County Public Schools, Orange County Fire &amp; Rescue, City of Winter Park, Lake Apopka Natural Gas, Lake County Schools, Lake County Parks &amp; Recreation, City of Oviedo Parks &amp; Recreation, Seminole County Schools, Osceola County, Florida Department of Transportation, Orlando Neighborhood Improvements Corp.</p>
