@@ -5,42 +5,60 @@ author: rchatham
 post_excerpt: ""
 layout: page
 permalink: >
-  https://wordpressdev.reidchatham.com/?page_id=34
+  https://skconsort.reidchatham.com/?page_id=34
 published: true
 post_date: 2020-08-12 18:45:05
 ---
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color">Established in as a multi-disciplinary firm offering consulting services in urban design, planning, and civil engineering. The firm has been incorporated in the State of Florida since 1984.</p>
+<p class="has-text-color has-black-color">Established in as a multi-disciplinary firm offering consulting services in urban design, planning, and civil engineering. The firm has been incorporated in the State of Florida since 1984.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><strong>PRINCIPAL:</strong> </p>
+<p class="has-text-color has-black-color"><strong>PRINCIPAL:</strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color">Casidys Suvongse, Principal Planner</p>
+<p class="has-text-color has-black-color">Casidys Suvongse, Principal Planner</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color">Majid Kalaghchi, P.E., Principal Engineer</p>
+<p class="has-text-color has-black-color">Majid Kalaghchi, P.E., Principal Engineer</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><strong>SERVICES</strong>:</p>
+<p class="has-text-color has-black-color"><strong>SERVICES</strong>:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color">Development Feasibility, Comprehensive Plan &amp; Zoning matters, Development Master Planning, Site Planning, Civil Engineering, Permitting &amp; Construction Administration</p>
+<p class="has-text-color has-black-color">Development Feasibility, Comprehensive Plan &amp; Zoning matters, Development Master Planning, Site Planning, Civil Engineering, Permitting &amp; Construction Administration</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:advgb/list {"id":"advgblist-79ac1af9-bb82-41dd-8aee-395a6e81a78f","icon":"minus","iconSize":10,"changed":true} -->
+<div class="wp-block-advgb-list"><ul class="advgblist-79ac1af9-bb82-41dd-8aee-395a6e81a78f advgb-list advgb-list-minus"><li>AAA Cooper Transportation</li><li>Avartar Properties</li><li>Brooksville Development Group</li><li>Cabot, Cabot &amp; Forbes</li><li>Camping World</li><li>CNL Restaurant Services, Inc.</li><li>Commonwealth Properties, LLC</li><li>Design Enterprises Incorporated</li><li>Domino’s Pizza</li><li>Emerson International, Inc.</li><li>Environmental Design &amp; Development</li><li>Equity Partners</li><li>Ferber Company</li><li>First Union National Bank</li><li>Firstate Financial, Inc.</li><li>Florida Fine Homes, Inc.</li><li>Global Business Center</li><li>Habitat for Humanity</li><li>Harkins Development, Inc.</li><li>Leesburg Regional Medical Center</li><li>Liberty Property Trust</li><li>Lucent Technologies</li><li>Mantovani Investment, Inc.</li><li>Victoria Equities, Inc.</li><li>Vision Developers, Inc.</li><li>Walgreen</li><li>Walt Disney World</li><li>Whitley Capital</li><li>WKMG Channel 6</li></ul></div>
+<!-- /wp:advgb/list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:advgb/list {"id":"advgblist-e92a534e-8ad2-4a96-92dd-4ab467a5a6ac","icon":"minus","iconSize":10,"changed":true} -->
+<div class="wp-block-advgb-list"><ul class="advgblist-e92a534e-8ad2-4a96-92dd-4ab467a5a6ac advgb-list advgb-list-minus"><li>Marriott Corporation</li><li>Metropolis Homes</li><li>Northern Hospitality, Inc.</li><li>Olde Town, Inc.</li><li>Orlando Utility Commission</li><li>Progress Energy</li><li>Prologis</li><li>Realvest Partners, Inc.</li><li>Reed Nissan</li><li>Regency Centers</li><li>Robert Pattillo Properties</li><li>SCI Southern Division-Woodlawn Memorial</li><li>Science Application Int’l Corp.</li><li>Simmons Vedder</li><li>South Georgia Medical Center</li><li>Starchild Academy</li><li>Sunbelt Health Care Centers, Inc.<br/>Suntrust Bank, N.A.</li><li>Taurus Investment Group</li><li>Titan Development Company</li><li>Trammell Crow Company</li><li>Transcor</li><li>Tri-City</li><li>Tricor International Corporation</li><li>Universal City Florida</li><li>University Medical Center</li><li>Jacksonville</li><li>UCF Foundation</li></ul></div>
+<!-- /wp:advgb/list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-text-color has-black-color"><strong>CLIENTS: </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:advgb/list {"id":"advgblist-3f5849ab-7888-455b-8ed0-1cd513a26bd6","icon":"minus","iconSize":10,"changed":true} -->
+<div class="wp-block-advgb-list"><ul class="advgblist-3f5849ab-7888-455b-8ed0-1cd513a26bd6 advgb-list advgb-list-minus"><li></li></ul></div>
+<!-- /wp:advgb/list -->
+
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-text-color has-black-color"><strong>CORPORATE:</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><strong>CLIENTS: </strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><strong>CORPORATE: </strong>AAA Cooper Transportation, Avartar Properties, Brooksville Development Group, Cabot, Cabot &amp; Forbes, Camping World, CNL Restaurant Services, Inc., Commonwealth Properties, LLC, Design Enterprises Incorporated, Domino’s Pizza, Emerson International, Inc., Environmental Design &amp; Development, Equity Partners, Ferber Company, First Union National Bank, Firstate Financial, Inc., Florida Fine Homes, Inc., Global Business Center, Habitat for Humanity, Harkins Development, Inc., Leesburg Regional Medical Center, Liberty Property Trust, Lucent Technologies, Mantovani Investment, Inc., Marriott Corporation, Metropolis Homes, Northern Hospitality, Inc., Olde Town, Inc., Orlando Utility Commission, Progress Energy, Prologis, Realvest Partners, Inc., Reed Nissan, Regency Centers, Robert Pattillo Properties, SCI Southern Division-Woodlawn Memorial, Science Application Int’l Corp., Simmons Vedder, South Georgia Medical Center, Starchild Academy, Sunbelt Health Care Centers, Inc., Suntrust Bank, N.A., Taurus Investment Group, Titan Development Company, Trammell Crow Company, Transcor, Tri-City, Tricor International Corporation, Universal City Florida, University Medical Center, Jacksonville, UCF Foundation, Victoria Equities, Inc., Vision Developers, Inc., Walgreen, Walt Disney World, Whitley Capital, WKMG Channel 6</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><strong>GOVERNMENTAL</strong>: City of Orlando Community &amp; Youth Services, City of Casselberry Parks &amp; Recreation, City of Casselberry Planning &amp; Development, Town of Eatonville, Florida, City of Valdosta, Georgia, Orange County Parks &amp; Recreation, Orange County Capital Projects, Orange County Public Schools, Orange County Fire &amp; Rescue, City of Winter Park, Lake Apopka Natural Gas, Lake County Schools, Lake County Parks &amp; Recreation, City of Oviedo Parks &amp; Recreation, Seminole County Schools, Osceola County, Florida Department of Transportation, Orlando Neighborhood Improvements Corp.</p>
+<p class="has-text-color has-black-color"><strong>GOVERNMENTAL</strong>: City of Orlando Community &amp; Youth Services, City of Casselberry Parks &amp; Recreation, City of Casselberry Planning &amp; Development, Town of Eatonville, Florida, City of Valdosta, Georgia, Orange County Parks &amp; Recreation, Orange County Capital Projects, Orange County Public Schools, Orange County Fire &amp; Rescue, City of Winter Park, Lake Apopka Natural Gas, Lake County Schools, Lake County Parks &amp; Recreation, City of Oviedo Parks &amp; Recreation, Seminole County Schools, Osceola County, Florida Department of Transportation, Orlando Neighborhood Improvements Corp.</p>
 <!-- /wp:paragraph -->
