@@ -56,5 +56,23 @@ post_date: 2020-08-12 18:45:05
 <!-- /wp:columns -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-text-color has-black-color"><strong>GOVERNMENTAL</strong>: City of Orlando Community &amp; Youth Services, City of Casselberry Parks &amp; Recreation, City of Casselberry Planning &amp; Development, Town of Eatonville, Florida, City of Valdosta, Georgia, Orange County Parks &amp; Recreation, Orange County Capital Projects, Orange County Public Schools, Orange County Fire &amp; Rescue, City of Winter Park, Lake Apopka Natural Gas, Lake County Schools, Lake County Parks &amp; Recreation, City of Oviedo Parks &amp; Recreation, Seminole County Schools, Osceola County, Florida Department of Transportation, Orlando Neighborhood Improvements Corp.</p>
+<p class="has-text-color has-black-color"><strong>GOVERNMENTAL</strong>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:advgb/list {"id":"advgblist-9821f5fb-6b1a-4535-81a8-c1679538d879","icon":"minus","iconSize":10,"changed":true} -->
+<div class="wp-block-advgb-list"><ul class="advgblist-9821f5fb-6b1a-4535-81a8-c1679538d879 advgb-list advgb-list-minus"><li>City of Orlando Community &amp; Youth Services</li><li>City of Casselberry Parks &amp; Recreation</li><li>City of Casselberry Planning &amp; Development</li><li>Town of Eatonville, Florida</li><li>City of Valdosta, Georgia</li><li>Orange County Parks &amp; Recreation</li><li>Orange County Capital Projects</li><li>Orange County Public Schools</li></ul></div>
+<!-- /wp:advgb/list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:advgb/list {"id":"advgblist-08aadd6f-ecd0-49cb-9930-0ba003887c84","icon":"minus","iconSize":10,"changed":true} -->
+<div class="wp-block-advgb-list"><ul class="advgblist-08aadd6f-ecd0-49cb-9930-0ba003887c84 advgb-list advgb-list-minus"><li>Orange County Fire &amp; Rescue, City of Winter Park</li><li>Lake Apopka Natural Gas</li><li>Lake County Schools</li><li>Lake County Parks &amp; Recreation</li><li>City of Oviedo Parks &amp; Recreation</li><li>Seminole County Schools</li><li>Osceola County</li><li>Florida Department of Transportation</li><li>Orlando Neighborhood Improvements Corp</li></ul></div>
+<!-- /wp:advgb/list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
