@@ -1,11 +1,11 @@
 ---
 ID: 35
-post_title: Contact
+post_title: Contact Info
 author: rchatham
 post_excerpt: ""
 layout: page
 permalink: >
-  https://wordpressdev.reidchatham.com/?page_id=35
+  http://skconsort.reidchatham.com/?page_id=35
 published: true
 post_date: 2020-08-12 18:45:05
 ---
