@@ -1,10 +1,10 @@
 ---
 ID: 276
-post_title: Education
+post_title: Educational Facility
 author: rchatham
 post_excerpt: ""
 layout: post
-permalink: https://skconsort.reidchatham.com/?p=276
+permalink: http://skconsort.reidchatham.com/?p=276
 published: true
 post_date: 2020-09-09 21:54:01
 ---
