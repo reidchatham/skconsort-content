@@ -1,10 +1,10 @@
 ---
 ID: 349
-post_title: Distribution
+post_title: Warehouse/Distribution
 author: rchatham
 post_excerpt: ""
 layout: post
-permalink: https://skconsort.reidchatham.com/?p=349
+permalink: http://skconsort.reidchatham.com/?p=349
 published: true
 post_date: 2020-09-14 17:49:32
 ---
