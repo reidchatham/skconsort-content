@@ -1,10 +1,10 @@
 ---
 ID: 237
-post_title: Special Purpose
+post_title: Special Purpose Facility
 author: rchatham
 post_excerpt: ""
 layout: post
-permalink: https://skconsort.reidchatham.com/?p=237
+permalink: http://skconsort.reidchatham.com/?p=237
 published: true
 post_date: 2020-09-09 20:14:00
 ---
