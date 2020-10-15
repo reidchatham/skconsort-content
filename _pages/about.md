@@ -10,7 +10,7 @@ published: true
 post_date: 2020-08-12 18:45:05
 ---
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-text-color has-black-color">Established in as a multi-disciplinary firm offering consulting services in urban design, planning, and civil engineering. The firm has been incorporated in the State of Florida since 1984.</p>
+<p class="has-text-color has-black-color">Established in 1984 as a multi-disciplinary firm offering consulting services in urban design, planning, and civil engineering.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
