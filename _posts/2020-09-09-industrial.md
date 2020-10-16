@@ -4,7 +4,7 @@ post_title: Industrial
 author: rchatham
 post_excerpt: ""
 layout: post
-permalink: http://skconsort.reidchatham.com/?p=270
+permalink: https://skconsort.reidchatham.com/?p=270
 published: true
 post_date: 2020-09-09 21:47:22
 ---
