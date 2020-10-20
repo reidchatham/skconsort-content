@@ -28,6 +28,6 @@ post_date: 2020-09-09 21:47:22
 <h3>Stihl</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image {"id":274,"width":628,"height":320,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://skconsort.reidchatham.com/wp-content/uploads/2020/09/Stihl.-Orlando-Florida.png" alt="" class="wp-image-274" width="628" height="320"/></figure>
+<!-- wp:image {"id":274,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full"><img src="https://skconsort.reidchatham.com/wp-content/uploads/2020/09/Stihl.-Orlando-Florida.png" alt="" class="wp-image-274"/></figure>
 <!-- /wp:image -->
