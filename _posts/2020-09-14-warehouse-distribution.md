@@ -1,6 +1,6 @@
 ---
 ID: 349
-post_title: Warehouse/Distribution
+post_title: 'Warehouse &#038; Distribution'
 author: rchatham
 post_excerpt: ""
 layout: post
