@@ -10,7 +10,7 @@ published: true
 post_date: 2020-08-12 18:45:05
 ---
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-text-color has-black-color">Established in 1984 as a multi-disciplinary firm offering consulting services in urban design, planning, and civil engineering.</p>
+<p class="has-text-color has-black-color">Established in 1994 as a multi-disciplinary firm offering consulting services in urban design, planning, and civil engineering.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
