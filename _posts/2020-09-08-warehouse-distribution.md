@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: post
 permalink: http://skconsort.reidchatham.com/?p=349
 published: true
-post_date: 2020-09-14 17:49:32
+post_date: 2020-09-08 17:49:32
 ---
 <!-- wp:heading {"level":3} -->
 <h3>Beltway Commerce Center II</h3>
